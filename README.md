@@ -27,11 +27,3 @@ MediAssist is a **multimodal healthcare assistant** that helps patients and doct
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-- React + Tailwind CSS (Web)  
-- React Native (Mobile App – optional)  
-
-**Backend**
-- FastAPI (Python) 
